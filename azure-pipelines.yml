@@ -14,4 +14,4 @@ steps:
     sdk: 'iphoneos'
     configuration: 'Debug'
     xcWorkspacePath: '**/*.xcodeproj/project.xcworkspace'
-    xcodeVersion: '10.0' # Options: 8, 9, 10, default, specifyPath
+    xcodeVersion: 'default' # Options: 8, 9, 10, default, specifyPath
